@@ -4,7 +4,7 @@ import pyautogui as py
 from time import sleep
 import clipboard as cli
 
-imgTotais = (r"C:\\Users\\01459068416\\Documents\\GitHub\\automatizacao_s_m\\totais.PNG")
+imgTotais = (r"C:\\Users\\CPF\\Documents\\GitHub\\automatizacao_s_m\\totais.PNG")
 
 # variáveis
 total = ''
