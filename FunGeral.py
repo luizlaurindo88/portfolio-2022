@@ -15,7 +15,7 @@ class Data:
         # UTILIAZADAS NAS FUNÇÕES DataAnterior();DataAnterior2()
         self.current_date = dt.today()
         # MUDAR PARA SUBTRAIR A QUANTIDADE DE DIAS
-        self.data = self.current_date - timedelta(1)
+        self.data = self.current_date - timedelta(2)
         
 
 class DataFor (Data):
